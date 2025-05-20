@@ -16,8 +16,7 @@ LLM-Project/
 ├── main.py                   # Entry point: integrates extraction, translation, and summarization
 ├── extract_comments.py       # Extracts multilingual comments
 ├── translate_comments.py     # Translates comments to English
-├── summarize_comments.py     # Summarizes translated comments using Google Generative AI
-└── myenv/                    # Python virtual environment (do not include in GitHub)
+└── summarize_comments.py     # Summarizes translated comments using Google Generative AI
 
 ## 🚀 Getting Started
 
