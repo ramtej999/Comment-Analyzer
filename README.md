@@ -75,10 +75,3 @@ This project is for educational and research purposes. Modify it freely for pers
 
 Developed by [Ramtej](https://github.com/ramtej999)
 Feel free to contribute or raise issues!
-
-```
-
----
-
-Let me know if you'd like me to generate the actual `requirements.txt` or add badges/documentation links!
-```
